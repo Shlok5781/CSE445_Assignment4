@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns="http://shlok5781.github.io/CSE445_Assignment4"
+           targetNamespace="http://shlok5781.github.io/CSE445_Assignment4"
+           elementFormDefault="qualified"
+           attributeFormDefault="unqualified">
 
   <xs:element name="NationalParks" type="NationalParksType"/>
 
